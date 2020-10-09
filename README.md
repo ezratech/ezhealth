@@ -44,7 +44,7 @@
 
 > ## User Profile
 
-<p align="center"><img src="/src/assets/images/screenshots/profile/info.png" width="400">&nbsp;<img src="/src/assets/images/screenshots/profile/profile.png" width="400"><p>
+<p align="center"><img src="/src/assets/images/screenshots/profile/info.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/profile/profile.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/profile/edit-info.png" width="266"><p>
 
 ---
 
