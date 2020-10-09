@@ -36,7 +36,7 @@
 
 <p align="center"><img src="/src/assets/images/screenshots/themes/color_green.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/color_red.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/color_blue.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/color_orange.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/color_purple.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/color_black.png" width="266"<p>
 
-### Color Header
+### Background Header
 
 <p align="center"><img src="/src/assets/images/screenshots/themes/background_green.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/background_red.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/background_blue.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/background_orange.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/background_purple.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/background_black.png" width="266"<p>
 
