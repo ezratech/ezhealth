@@ -26,7 +26,7 @@
 
 > ## Home
 
-<p align="center"><img src="/src/assets/images/screenshots/home/home-top.png" width="400">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/src/assets/images/screenshots/home/home-bottom.png" width="400"><p>
+<p align="center"><img src="/src/assets/images/screenshots/home/home-top.png" width="266">&nbsp;;<img src="/src/assets/images/screenshots/home/home-bottom.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/home/home-menu.png" width="266"><p>
 
 ---
 
@@ -44,7 +44,7 @@
 
 > ## User Profile
 
-<p align="center"><img src="/src/assets/images/screenshots/profile/info.png" width="400">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/src/assets/images/screenshots/profile/profile.png" width="400"><p>
+<p align="center"><img src="/src/assets/images/screenshots/profile/info.png" width="400">&nbsp;<img src="/src/assets/images/screenshots/profile/profile.png" width="400"><p>
 
 ---
 
