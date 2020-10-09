@@ -4,7 +4,7 @@
 
 ## Supported by <img src="/src/assets/images/logos/expo.png" width="15"> Expo & <img src="/src/assets/images/logos/firebase.png" width="20">​ Firebase
 
-<p align="center"><img src="/src/assets/images/screenshots/others/footer.png" width="850"><p>
+<p align="center"><img src="/src/assets/images/screenshots/others/footer.png" width="90"><p>
 
 > ## Application available on https://ez-health.web.app
 
@@ -35,6 +35,10 @@
 ### Color Header
 
 <p align="center"><img src="/src/assets/images/screenshots/themes/color_green.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/color_red.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/color_blue.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/color_orange.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/color_purple.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/color_black.png" width="266"<p>
+
+### Color Header
+
+<p align="center"><img src="/src/assets/images/screenshots/themes/background_green.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/background_red.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/background_blue.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/background_orange.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/background_purple.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/background_black.png" width="266"<p>
 
 ---
 
