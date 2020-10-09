@@ -32,7 +32,7 @@
 
 > ## Themes 💚 ❤️ 💙 💛 💜 🖤
 
-<p align="center"><img src="/src/assets/images/screenshots/home/theme-green.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/home/theme-red.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/home/theme-blue.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/home/theme-orange.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/home/theme-purple.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/home/theme-black.png" width="266"<p>
+<p align="center"><img src="/src/assets/images/screenshots/themes/color_green.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/home/color_red.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/home/color_blue.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/home/color_orange.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/home/color_purple.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/home/color_black.png" width="266"<p>
 
 ---
 
