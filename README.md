@@ -74,7 +74,7 @@
 
 > ### Main Screen, Healthy Foods
 
-<p align="center"><img src="/src/assets/images/foodchoices/foodchoices/mainscreen.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/foodchoices/healthy.png" width="266">&nbsp;<img src="/src/assets/images/foodchoices/foodchoices/foodinfo.png" width="266"><p>
+<p align="center"><img src="/src/assets/images/screenshots/foodchoices/mainscreen.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/foodchoices/healthy.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/foodchoices/foodinfo.png" width="266"><p>
   
 ---
 
