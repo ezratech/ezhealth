@@ -4,7 +4,7 @@
 
 ## Supported by <img src="/src/assets/images/logos/expo.png" width="15"> Expo & <img src="/src/assets/images/logos/firebase.png" width="20">​ Firebase
 
-<p align="center"><img src="/src/assets/images/screenshots/others/footer.png" width="90"><p>
+<p align="center"><img src="/src/assets/images/screenshots/others/footer.png" width="850"><p>
 
 > ## Application available on https://ez-health.web.app
 
