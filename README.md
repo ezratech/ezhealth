@@ -70,6 +70,20 @@
 
 ---
 
+> ## Food Choices
+
+> ### Main Screen, Healthy Foods
+
+<p align="center"><img src="/src/assets/images/foodchoices/foodchoices/mainscreen.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/foodchoices/healthy.png" width="266">&nbsp;<img src="/src/assets/images/foodchoices/foodchoices/foodinfo.png" width="266"><p>
+  
+---
+
+> ### 7 Days GM Diet Plan, Water Intake
+
+<p align="center"><img src="/src/assets/images/screenshots/foodchoices/7day.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/foodchoices/day.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/foodchoices/waterintake.png" width="266"><p>
+
+---
+
 > ## Challenges
 
 > ### Header, body and swipe
