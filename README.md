@@ -12,6 +12,10 @@
 
 # Features
 
+> ## Splash Screen - Loading
+
+<p align="center"><img src="/src/assets/images/screenshots/about/logo.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/about/team.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/about/loading.png" width="266"><p>
+
 > ## Welcome - Register
 
 <p align="center"><img src="/src/assets/images/screenshots/welcome/welcome.png" width="400">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/src/assets/images/screenshots/welcome/register.png" width="400"><p>
