@@ -22,7 +22,8 @@
 
 > ## Splash Screen - Loading
 
-- Splash Screen is a special screen that is displayed first when opening an application. The Ez Health app's Splash Screen will display the app's logo.
+- Splash Screen is a special screen that is displayed first when opening an application.
+- The Ez Health app's Splash Screen will display the app's logo.
 - While instant response from the app or website is best, sometimes your product won't be able to comply with the speed guidelines.
 - The slow response can be caused by a poor internet connection, or the operation may take a long time.
 - The loading screen makes users more comfortable when waiting.
@@ -33,7 +34,8 @@
 
 > ## Welcome - Log In - Register
 
-- Users can choose to login to open the login page when they already have an account to log in by Email or can quickly log in via Facebook or Google. Or request to reset password via Email.
+- Users can choose to login to open the login page when they already have an account to log in by Email or can quickly log in via Facebook or Google.
+- Users can request to reset password via Email.
 - If you don't have an account, you can click register to open the registration page to register a new account by Email.
 
 <p align="center"><img src="/src/assets/images/screenshots/welcome/welcome.png" width="400">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/src/assets/images/screenshots/welcome/register.png" width="400"><img src="/src/assets/images/screenshots/welcome/login.png" width="400">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/src/assets/images/screenshots/welcome/solveproblems.png" width="400"><p>
@@ -76,7 +78,8 @@
 
 ---
 
-- Ez Health users can connect with friends, win scattered rewards within the app, as well as view trophy rankings. Users can find friends and follow them.
+- Ez Health users can connect with friends, win scattered rewards within the app, as well as view trophy rankings.
+- Users can find friends and follow them.
 
 > ## Socials
 
@@ -110,7 +113,8 @@
 
 > ### 7 Days GM Diet Plan, Water Intake
 
-- 7 Days GM Diet Plan: Recommended GD Diet 7-day weight loss diet - glass diet helps to lose 6.8kg (15 pounds) adjusted in 1 week. In addition to being able to lose weight and maintain shape, the GM Diet is also believed to help purify and detoxify the body. With this feature, users will be called to the dishes each day, each session of the week.
+- 7 Days GM Diet Plan: Recommended GD Diet 7-day weight loss diet and glass diet helps to lose 6.8kg (15 pounds) adjusted in 1 week.
+- In addition to being able to lose weight and maintain shape, the GM Diet is also believed to help purify and detoxify the body. With this feature, users will be called to the dishes each day, each session of the week.
 - Water Intake: Our body is more than 60-70% water, drinking too much water or drinking too little water is also harmful to the body. Based on the personal information the user provides, the application will automatically calculate the amount of water needed for the body each day. Intuitive interface for easy water management and daily reset.
 
 ---
@@ -122,9 +126,10 @@
 > ## Fitness
 
 - Gym is one of the most popular types of fitness today. However, not everyone has a lot of time to go to the gym regularly.
-- Daily Fitness will let you achieve great results, in the shortest amount of time. Daily Fitness contains an extensive database of muscle exercises along with very detailed and specific instructional images for each movement. Users can practice according to the available plan that the application provides to suit their own needs.
+- Daily Fitness will let you achieve great results, in the shortest amount of time.
+- Daily Fitness contains an extensive database of muscle exercises along with very detailed and specific instructional images for each movement. Users can practice according to the available plan that the application provides to suit their own needs.
 - The application uses Google Voices to help users know the next exercises, remaining time as well as training progress.
-  In addition, many users will receive trophy as well as training time, completed rounds as well as manage burned calories.
+- In addition, many users will receive trophy as well as training time, completed rounds as well as manage burned calories.
 
 ---
 
