@@ -80,7 +80,7 @@
 
 > ### 7 Days GM Diet Plan, Water Intake
 
-<p align="center"><img src="/src/assets/images/screenshots/foodchoices/7day.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/foodchoices/day.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/foodchoices/waterintake.png" width="266"><p>
+<p align="center"><img src="/src/assets/images/screenshots/foodchoices/7day.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/foodchoices/day.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/foodchoices/waterintake.gif" width="274"><p>
 
 ---
 
