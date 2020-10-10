@@ -18,9 +18,13 @@
 
 # Features
 
+---
+
 > ## Splash Screen - Loading
 
 <p align="center"><img src="/src/assets/images/screenshots/about/logo.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/about/team.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/about/loading.png" width="266"><p>
+
+---
 
 > ## Welcome - Register
 
@@ -42,9 +46,13 @@
 
 > ## Themes 💚 ❤️ 💙 💛 💜 🖤
 
+---
+
 > ### Color Header
 
 <p align="center"><img src="/src/assets/images/screenshots/themes/color_green.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/color_red.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/color_blue.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/color_orange.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/color_purple.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/color_black.png" width="266"<p>
+
+---
 
 > ### Background Header
 
@@ -164,3 +172,5 @@
 <p align="center"><img src="/src/assets/images/screenshots/sleepysounds/player.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/sleepysounds/player-2.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/sleepysounds/player-3.png" width="266"><p>
 
 **More features are available in the application. Try it now!!!**
+
+---
