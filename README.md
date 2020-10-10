@@ -110,7 +110,7 @@
 
 > ### Main screen
 
-<p align="center"><img src="/src/assets/images/screenshots/sleepysounds/header.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/sleepysounds/body.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/sleepysounds/sleepy.gif" width="272"><p>
+<p align="center"><img src="/src/assets/images/screenshots/sleepysounds/header.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/sleepysounds/body.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/sleepysounds/sleepy.gif" width="273"><p>
 
 ---
 
