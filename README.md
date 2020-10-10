@@ -1,10 +1,16 @@
 # <img src="/src/assets/images/logos/ezhealth-trans.png" width="40"> EZ HEALTH
 
+---
+
 # DEVELOPED BY <img src="/src/assets/images/logos/ezratech-trans.png" height="90">
+
+---
 
 ## Supported by <img src="/src/assets/images/logos/expo.png" width="15"> Expo & <img src="/src/assets/images/logos/firebase.png" width="20">​ Firebase
 
 <p align="center"><img src="/src/assets/images/screenshots/others/footer.png" width="850"><p>
+
+---
 
 > ## Application available on https://ez-health.web.app
 
