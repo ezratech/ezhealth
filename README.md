@@ -92,9 +92,9 @@
   
 ---
 
-<!-- > ### 7 Days GM Diet Plan, Water Intake
+> ### Animations
 
-<p align="center"><img src="/src/assets/images/screenshots/fitness/7day.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/fitness/day.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/foodchoices/fitness.gif" width="274"><p> -->
+<p align="center"><img src="/src/assets/images/screenshots/fitness/mainscreen.gif" width="274">&nbsp;<img src="/src/assets/images/screenshots/fitness/classic.gif" width="274">&nbsp;<img src="/src/assets/images/screenshots/fitness/abs.gif" width="274"><img src="/src/assets/images/screenshots/fitness/butt.gif" width="274">&nbsp;<img src="/src/assets/images/screenshots/fitness/leg.gif" width="274">&nbsp;<img src="/src/assets/images/screenshots/fitness/arm.gif" width="274"><p>
 
 ---
 
