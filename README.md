@@ -22,19 +22,21 @@
 
 > ## Splash Screen - Loading
 
+- Splash Screen is a special screen that is displayed first when opening an application. The Ez Health app's Splash Screen will display the app's logo.
+- While instant response from the app or website is best, sometimes your product won't be able to comply with the speed guidelines.
+- The slow response can be caused by a poor internet connection, or the operation may take a long time.
+- The loading screen makes users more comfortable when waiting.
+
 <p align="center"><img src="/src/assets/images/screenshots/about/logo.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/about/team.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/about/loading.png" width="266"><p>
 
 ---
 
-> ## Welcome - Register
+> ## Welcome - Log In - Register
 
-<p align="center"><img src="/src/assets/images/screenshots/welcome/welcome.png" width="400">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/src/assets/images/screenshots/welcome/register.png" width="400"><p>
-  
----
+- Users can choose to login to open the login page when they already have an account to log in by Email or can quickly log in via Facebook or Google. Or request to reset password via Email.
+- If you don't have an account, you can click register to open the registration page to register a new account by Email.
 
-> ## Log In - Solve Problems
-
-<p align="center"><img src="/src/assets/images/screenshots/welcome/login.png" width="400">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/src/assets/images/screenshots/welcome/solveproblems.png" width="400"><p>
+<p align="center"><img src="/src/assets/images/screenshots/welcome/welcome.png" width="400">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/src/assets/images/screenshots/welcome/register.png" width="400"><img src="/src/assets/images/screenshots/welcome/login.png" width="400">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/src/assets/images/screenshots/welcome/solveproblems.png" width="400"><p>
 
 ---
 
