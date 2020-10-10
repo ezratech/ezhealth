@@ -72,6 +72,8 @@
 
 > ## Food Choices
 
+---
+
 > ### Main Screen, Healthy Foods
 
 - Healthy Foods: Look up information about healthy fruits and vegetables, know all kinds of fruits, vegetables as well as their nutritional information.
@@ -91,6 +93,13 @@
 
 > ## Fitness
 
+- Gym is one of the most popular types of fitness today. However, not everyone has a lot of time to go to the gym regularly.
+- Daily Fitness will let you achieve great results, in the shortest amount of time. Daily Fitness contains an extensive database of muscle exercises along with very detailed and specific instructional images for each movement. Users can practice according to the available plan that the application provides to suit their own needs.
+- The application uses Google Voices to help users know the next exercises, remaining time as well as training progress.
+  In addition, many users will receive trophy as well as training time, completed rounds as well as manage burned calories.
+
+---
+
 > ### Mainscreen, Details, Startfit
 
 <p align="center"><img src="/src/assets/images/screenshots/fitness/mainscreen.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/fitness/fitness_details.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/fitness/fitness_start.png" width="266"><p>
@@ -104,6 +113,11 @@
 ---
 
 > ## Challenges
+
+- Becoming a healthier person is not about making a big change that affects the rest of our lives. It's about making many small decisions throughout our lives. From choosing healthy alternatives over sugary foods to choosing to go for a walk instead of watching TV. These little things add up by day, week, month, and year. So, when making life-changing decisions, we don't need to try to get over everything at the same time.
+- Challenges will help users manage and figure out how to do things that users want to do. Set a goal to challenge yourself. Users will break down plans and projects into small tasks, which can be completed, repeating each day.
+
+---
 
 > ### Header, body and swipe
 
@@ -124,6 +138,10 @@
 ---
 
 > ## Sleepy Sounds
+
+- Relax and sleep with a variety of sleep sounds to help control sleep, reduce stress and prevent insomnia and tinnitus. Use natural sounds, white noise, relaxing melodies, and soothing sounds to create your own mix of voices. Get high quality sleep like never before.
+- Sleep sounds help us: Avoid insomnia and sleep easily, relax and reduce stress and anxiety, block annoying sounds, get an uninterrupted sleep, alleviate buzzing ears, focus.
+- Sleepy Sounds has a dark interface, with lots of content such as songs for sleep, sounds from animal nature, a timer to turn off. This feature will help users have a better sleep, thereby improving their own health.
 
 ---
 
