@@ -84,6 +84,20 @@
 
 ---
 
+> ## Fitness
+
+> ### Mainscreen, Details, Startfit
+
+<p align="center"><img src="/src/assets/images/screenshots/fitness/mainscreen.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/fitness/fitness_details.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/fitness/fitness_start.png" width="266"><p>
+  
+---
+
+<!-- > ### 7 Days GM Diet Plan, Water Intake
+
+<p align="center"><img src="/src/assets/images/screenshots/fitness/7day.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/fitness/day.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/foodchoices/fitness.gif" width="274"><p> -->
+
+---
+
 > ## Challenges
 
 > ### Header, body and swipe
