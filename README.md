@@ -72,6 +72,10 @@
 
 > ## Food Choices
 
+- Healthy Foods: Look up information about healthy fruits and vegetables, know all kinds of fruits, vegetables as well as their nutritional information.
+- 7 Days GM Diet Plan: Recommended GD Diet 7-day weight loss diet - glass diet helps to lose 6.8kg (15 pounds) adjusted in 1 week. In addition to being able to lose weight and maintain shape, the GM Diet is also believed to help purify and detoxify the body. With this feature, users will be called to the dishes each day, each session of the week.
+- Water Intake: Our body is more than 60-70% water, drinking too much water or drinking too little water is also harmful to the body. Based on the personal information the user provides, the application will automatically calculate the amount of water needed for the body each day. Intuitive interface for easy water management and daily reset.
+
 > ### Main Screen, Healthy Foods
 
 <p align="center"><img src="/src/assets/images/screenshots/foodchoices/mainscreen.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/foodchoices/healthy.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/foodchoices/foodinfo.png" width="266"><p>
