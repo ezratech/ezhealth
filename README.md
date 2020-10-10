@@ -42,6 +42,8 @@
 
 > ## Home
 
+- The application displays the user's follow list as well as the main features of the application: Food Choices, Rest, Fitness, Challenges, Meditation, Sleepy Sounds.
+
 <p align="center"><img src="/src/assets/images/screenshots/home/home-top.png" width="266">&nbsp;;<img src="/src/assets/images/screenshots/home/home-bottom.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/home/home-menu.png" width="266"><p>
 
 ---
@@ -52,11 +54,15 @@
 
 > ### Color Header
 
+- Ez Health will have six sets of themes corresponding to six main colors: Green, Red, Blue, Orange, Purple, Black.
+
 <p align="center"><img src="/src/assets/images/screenshots/themes/color_green.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/color_red.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/color_blue.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/color_orange.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/color_purple.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/color_black.png" width="266"<p>
 
 ---
 
 > ### Background Header
+
+- Six main header background: Green Forest, Red Sunset, Underwater, Safari, Sunset & Palm Trees, Beautiful Night.
 
 <p align="center"><img src="/src/assets/images/screenshots/themes/background_green.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/background_red.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/background_blue.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/background_orange.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/background_purple.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/background_black.png" width="266"<p>
 
@@ -64,9 +70,13 @@
 
 > ## User Profile
 
+- Each user will have a personal information page that will display avatar, name, gender, email authentication as well as parameters such as: completed rounds, trophies, followers and intro.
+
 <p align="center"><img src="/src/assets/images/screenshots/profile/info.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/profile/profile.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/profile/edit-info.png" width="266"><p>
 
 ---
+
+- Ez Health users can connect with friends, win scattered rewards within the app, as well as view trophy rankings. Users can find friends and follow them.
 
 > ## Socials
 
