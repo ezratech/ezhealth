@@ -25,7 +25,7 @@
 - Splash Screen is a special screen that is displayed first when opening an application.
 - The Ez Health app's Splash Screen will display the app's logo.
 - While instant response from the app or website is best, sometimes your product won't be able to comply with the speed guidelines.
-- The slow response can be caused by a poor internet connection, or the operation may take a long time.
+- The slow response can be caused by a bad internet connection, or the operation may take a long time.
 - The loading screen makes users more comfortable when waiting.
 
 <p align="center"><img src="/src/assets/images/screenshots/about/logo.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/about/team.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/about/loading.png" width="266"><p>
@@ -44,7 +44,7 @@
 
 > ## Home
 
-- The application displays the user's follow list as well as the main features of the application: Food Choices, Rest, Fitness, Challenges, Meditation, Sleepy Sounds.
+- The application displays the user's follow list and the main features of the application: Food Choices, Rest, Fitness, Challenges, Meditation, Sleepy Sounds.
 
 <p align="center"><img src="/src/assets/images/screenshots/home/home-top.png" width="266">&nbsp;;<img src="/src/assets/images/screenshots/home/home-bottom.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/home/home-menu.png" width="266"><p>
 
@@ -56,7 +56,7 @@
 
 > ### Color Header
 
-- Ez Health will have six sets of themes corresponding to six main colors: Green, Red, Blue, Orange, Purple, Black.
+- The application has six themes corresponding to six main colors: Green, Red, Blue, Orange, Purple, Black.
 
 <p align="center"><img src="/src/assets/images/screenshots/themes/color_green.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/color_red.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/color_blue.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/color_orange.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/color_purple.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/color_black.png" width="266"<p>
 
@@ -64,7 +64,7 @@
 
 > ### Background Header
 
-- Six main header background: Green Forest, Red Sunset, Underwater, Safari, Sunset & Palm Trees, Beautiful Night.
+- Six main header background: Green Forest, Red Sunset, Underwater, Safari, Sunset Palm Trees, Beautiful Night.
 
 <p align="center"><img src="/src/assets/images/screenshots/themes/background_green.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/background_red.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/background_blue.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/background_orange.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/background_purple.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/background_black.png" width="266"<p>
 
@@ -72,13 +72,13 @@
 
 > ## User Profile
 
-- Each user will have a personal information page that will display avatar, name, gender, email authentication as well as parameters such as: completed rounds, trophies, followers and intro.
+- Each user will have a profile page displaying their profile picture, name, gender, email verification, completed rounds, titles, followers.
 
 <p align="center"><img src="/src/assets/images/screenshots/profile/info.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/profile/profile.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/profile/edit-info.png" width="266"><p>
 
 ---
 
-- Ez Health users can connect with friends, win scattered rewards within the app, as well as view trophy rankings.
+- Users can connect with friends, win in-app rewards and view rankings.
 - Users can find friends and follow them.
 
 > ## Socials
@@ -105,7 +105,7 @@
 
 > ### Main Screen, Healthy Foods
 
-- Healthy Foods: Look up information about healthy fruits and vegetables, know all kinds of fruits, vegetables as well as their nutritional information.
+- Healthy Foods: Look up information about healthy fruits and vegetables, know all kinds of fruits, vegetables and their nutritional information.
 
 <p align="center"><img src="/src/assets/images/screenshots/foodchoices/mainscreen.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/foodchoices/healthy.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/foodchoices/foodinfo.png" width="266"><p>
   
@@ -114,8 +114,9 @@
 > ### 7 Days GM Diet Plan, Water Intake
 
 - 7 Days GM Diet Plan: Recommended GD Diet 7-day weight loss diet and glass diet helps to lose 6.8kg (15 pounds) adjusted in 1 week.
-- In addition to being able to lose weight and maintain shape, the GM Diet is also believed to help purify and detoxify the body. With this feature, users will be called to the dishes each day, each session of the week.
-- Water Intake: Our body is more than 60-70% water, drinking too much water or drinking too little water is also harmful to the body. Based on the personal information the user provides, the application will automatically calculate the amount of water needed for the body each day. Intuitive interface for easy water management and daily reset.
+- In addition to being able to lose weight and keep fit, the GM Diet is also said to help purify and detoxify the body. With this feature, users will be given food suggestions for each day of the week.
+- The amount of water: Our body is more than 60-70% water, drinking too much water or drinking too little water is also harmful to the body.
+- Based on the personal information that the user provides, the application will automatically calculate the amount of water needed for the body each day. Intuitive interface for easy water management every day.
 
 ---
 
@@ -125,11 +126,13 @@
 
 > ## Fitness
 
-- Gym is one of the most popular types of fitness today. However, not everyone has a lot of time to go to the gym regularly.
-- Daily Fitness will let you achieve great results, in the shortest amount of time.
-- Daily Fitness contains an extensive database of muscle exercises along with very detailed and specific instructional images for each movement. Users can practice according to the available plan that the application provides to suit their own needs.
-- The application uses Google Voices to help users know the next exercises, remaining time as well as training progress.
-- In addition, many users will receive trophy as well as training time, completed rounds as well as manage burned calories.
+735/5000
+
+- Gym is one of the most popular types of exercise today. However, not everyone has a lot of time to go to the gym regularly.
+- Daily exercise will allow you to achieve great results, in the shortest amount of time.
+- Daily Fitness contains rich muscle exercises with very detailed and specific instructional images for each movement. Users can practice according to available plans that the application provides to suit their own needs.
+- The app uses Google Voices to help users know the next exercises, remaining time and training progress.
+- In addition, many users will receive trophies and manage exercise time, complete sets and burned calories.
 
 ---
 
@@ -147,8 +150,10 @@
 
 > ## Challenges
 
-- Becoming a healthier person is not about making a big change that affects the rest of our lives. It's about making many small decisions throughout our lives. From choosing healthy alternatives over sugary foods to choosing to go for a walk instead of watching TV. These little things add up by day, week, month, and year. So, when making life-changing decisions, we don't need to try to get over everything at the same time.
-- Challenges will help users manage and figure out how to do things that users want to do. Set a goal to challenge yourself. Users will break down plans and projects into small tasks, which can be completed, repeating each day.
+- Becoming a healthier person doesn't mean making a big difference that affects the rest of our lives.
+- It is about making many small decisions throughout our lives. From choosing healthy alternatives over sugary foods to taking a walk instead of watching TV.
+- These little things accumulate by day, week, month, and year. So when we make life-changing decisions, we don't need to try to get over everything at the same time.
+- Challenges will help users manage and figure out how to do what users want to do. Set goals to challenge yourself. Users break down plans and projects into small tasks that can be completed, repeated every day.
 
 ---
 
@@ -172,9 +177,10 @@
 
 > ## Sleepy Sounds
 
-- Relax and sleep with a variety of sleep sounds to help control sleep, reduce stress and prevent insomnia and tinnitus. Use natural sounds, white noise, relaxing melodies, and soothing sounds to create your own mix of voices. Get high quality sleep like never before.
-- Sleep sounds help us: Avoid insomnia and sleep easily, relax and reduce stress and anxiety, block annoying sounds, get an uninterrupted sleep, alleviate buzzing ears, focus.
-- Sleepy Sounds has a dark interface, with lots of content such as songs for sleep, sounds from animal nature, a timer to turn off. This feature will help users have a better sleep, thereby improving their own health.
+- Relax and sleep easily with a variety of sleep sounds to help control sleep, reduce stress and combat insomnia, tinnitus.
+- Use natural sounds, white noise, relaxing melodies and soothing sounds to create your own voice mix. Get quality sleep like never before.
+- Sleepy Sounds help us: Avoid insomnia and fall asleep, relax and reduce stress and anxiety, block annoying sounds, have uninterrupted sleep, reduce tinnitus, focus.
+- Sleepy Sounds has a dark interface, with many content such as sleep songs, sounds from animal nature, timer off. This feature will help users have better sleep, thereby improving their own health.
 
 ---
 
