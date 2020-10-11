@@ -60,7 +60,7 @@
 
 > ### Background Header
 
-- Six main header background: Green Forest, Red Sunset, Underwater, Safari, Sunset Palm Trees, Beautiful Night.
+- Six main header background: Green Forest, Red Sunset, Underwater, Safari, Sunset & Palm Trees, Beautiful Night.
 
 <p align="center"><img src="/src/assets/images/screenshots/themes/background_green.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/background_red.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/background_blue.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/background_orange.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/background_purple.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/themes/background_black.png" width="266"<p>
 
