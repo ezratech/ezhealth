@@ -24,7 +24,7 @@
 - The slow response can be caused by a bad internet connection, or the operation may take a long time.
 - The loading screen makes users more comfortable when waiting.
 
-<p align="center"><img src="/src/assets/images/screenshots/about/logo.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/about/team.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/about/loading.png" width="266"><p>
+<p align="center"><img src="/src/assets/images/screenshots/about/logo.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/about/team.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/about/loading.gif" width="270"><p>
 
 ---
 
@@ -34,7 +34,7 @@
 - Users can request to reset password via Email.
 - If you don't have an account, you can click register to open the registration page to register a new account by Email.
 
-<p align="center"><img src="/src/assets/images/screenshots/welcome/welcome.png" width="400">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/src/assets/images/screenshots/welcome/register.png" width="400"><img src="/src/assets/images/screenshots/welcome/login.png" width="400">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/src/assets/images/screenshots/welcome/solveproblems.png" width="400"><p>
+<p align="center"><img src="/src/assets/images/screenshots/welcome/welcome.gif" width="405">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/src/assets/images/screenshots/welcome/register.png" width="400"><img src="/src/assets/images/screenshots/welcome/login.png" width="400">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/src/assets/images/screenshots/welcome/solveproblems.png" width="400"><p>
 
 ---
 
