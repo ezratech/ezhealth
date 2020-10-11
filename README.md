@@ -116,7 +116,7 @@
 
 ---
 
-<p align="center"><img src="/src/assets/images/screenshots/foodchoices/7day.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/foodchoices/day.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/foodchoices/waterintake.gif" width="274"><p>
+<p align="center"><img src="/src/assets/images/screenshots/foodchoices/7day.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/foodchoices/day.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/foodchoices/waterintake.gif" width="273"><p>
 
 ---
 
@@ -180,7 +180,7 @@
 
 > ### Main screen
 
-<p align="center"><img src="/src/assets/images/screenshots/sleepysounds/header.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/sleepysounds/body.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/sleepysounds/sleepy.gif" width="273"><p>
+<p align="center"><img src="/src/assets/images/screenshots/sleepysounds/header.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/sleepysounds/body.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/sleepysounds/sleepy.gif" width="270"><p>
 
 ---
 
