@@ -1,8 +1,4 @@
-# <img src="/src/assets/images/logos/ezhealth-trans.png" width="40"> EZ HEALTH
-
----
-
-# DEVELOPED BY <img src="/src/assets/images/logos/ezratech-trans.png" height="90">
+# <img src="/src/assets/images/logos/ezhealth-trans.png" width="40"> EZ HEALTH | DEVELOPED BY <img src="/src/assets/images/logos/ezratech-trans.png" height="90">
 
 ---
 
