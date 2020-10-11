@@ -126,8 +126,6 @@
 
 > ## Fitness
 
-735/5000
-
 - Gym is one of the most popular types of exercise today. However, not everyone has a lot of time to go to the gym regularly.
 - Daily exercise will allow you to achieve great results, in the shortest amount of time.
 - Daily Fitness contains rich muscle exercises with very detailed and specific instructional images for each movement. Users can practice according to available plans that the application provides to suit their own needs.
