@@ -99,9 +99,9 @@
 
 ---
 
-> ### Main Screen, Healthy Foods 🍏
+> ### Main Screen, Healthy Foods
 
-- Healthy Foods: Look up information about healthy fruits and vegetables, know all kinds of fruits, vegetables and their nutritional information (🍎 🍐 🍊 🍋 🍌 🍉 🍇 🍓 🍈 🥝 🥑 🍍 🍒 🍑 🍆 🥒 🥕 🌶 🌽 🍅 🥔 🍠 🌰 🥜).
+- Healthy Foods: Look up information about healthy fruits and vegetables, know all kinds of fruits, vegetables and their nutritional information (🍏 🍎 🍐 🍊 🍋 🍌 🍉 🍇 🍓 🍈 🥝 🥑 🍍 🍒 🍑 🍆 🥒 🥕 🌶 🌽 🍅 🥔 🍠 🌰 🥜).
 
 <p align="center"><img src="/src/assets/images/screenshots/foodchoices/mainscreen.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/foodchoices/healthy.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/foodchoices/foodinfo.png" width="266"><p>
   
