@@ -38,7 +38,7 @@
 
 ---
 
-> ## Home
+> ## Home 🏚
 
 - The application displays the user's follow list and the main features of the application: Food Choices, Rest, Fitness, Challenges, Meditation, Sleepy Sounds.
 
@@ -58,7 +58,7 @@
 
 ---
 
-> ### Background Header
+> ### Background Header 🏞 🌅 🏖 🏜 🏝 🌌
 
 - Six main header background: Green Forest, Red Sunset, Underwater, Safari, Sunset & Palm Trees, Beautiful Night.
 
@@ -66,7 +66,7 @@
 
 ---
 
-> ## User Profile
+> ## User Profile 👤
 
 - Each user will have a profile page displaying their profile picture, name, gender, email verification, completed rounds, titles, followers.
 
@@ -99,7 +99,7 @@
 
 ---
 
-> ### Main Screen, Healthy Foods
+> ### Main Screen, Healthy Foods 🍏 🍎 🍐 🍊 🍋 🍌 🍉 🍇 🍓 🍈 🥝 🥑 🍍 🍒 🍑 🍆 🥒 🥕 🌶 🌽 🍅 🥔 🍠 🌰 🥜
 
 - Healthy Foods: Look up information about healthy fruits and vegetables, know all kinds of fruits, vegetables and their nutritional information.
 
@@ -107,7 +107,7 @@
   
 ---
 
-> ### 7 Days GM Diet Plan, Water Intake
+> ### 7 Days GM Diet Plan 🍳, Water Intake 🥛
 
 - 7 Days GM Diet Plan: Recommended GD Diet 7-day weight loss diet and glass diet helps to lose 6.8kg (15 pounds) adjusted in 1 week.
 - In addition to being able to lose weight and keep fit, the GM Diet is also said to help purify and detoxify the body. With this feature, users will be given food suggestions for each day of the week.
@@ -120,7 +120,7 @@
 
 ---
 
-> ## Fitness
+> ## Fitness 🏋️
 
 - Gym is one of the most popular types of exercise today. However, not everyone has a lot of time to go to the gym regularly.
 - Daily exercise will allow you to achieve great results, in the shortest amount of time.
