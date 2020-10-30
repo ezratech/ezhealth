@@ -157,19 +157,19 @@
   
 ---
 
-> ### Add new challenges ✍️
+> ### Add new challenges
 
 <p align="center"><img src="/src/assets/images/screenshots/challenges/icon.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/challenges/name.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/challenges/color.png" width="266"><p>
  
 ---
 
-> ### Manage todos
+> ### Manage todos ✍️
 
 <p align="center"><img src="/src/assets/images/screenshots/challenges/modal.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/challenges/modal-2.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/challenges/modal-3.png" width="266"><p>
   
 ---
 
-> ## Sleepy Sounds
+> ## Sleepy Sounds 💤️ 🎶
 
 - Relax and sleep easily with a variety of sleep sounds to help control sleep, reduce stress and combat insomnia, tinnitus.
 - Use natural sounds, white noise, relaxing melodies and soothing sounds to create your own voice mix. Get quality sleep like never before.
@@ -178,13 +178,13 @@
 
 ---
 
-> ### Main screen
+> ### Main screen 🛌
 
 <p align="center"><img src="/src/assets/images/screenshots/sleepysounds/header.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/sleepysounds/body.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/sleepysounds/sleepy.gif" width="270"><p>
 
 ---
 
-> ### Player
+> ### Player 🎵️ 💿 📀
 
 <p align="center"><img src="/src/assets/images/screenshots/sleepysounds/player.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/sleepysounds/player-2.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/sleepysounds/player-3.png" width="266"><p>
 
