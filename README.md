@@ -188,6 +188,6 @@
 
 <p align="center"><img src="/src/assets/images/screenshots/sleepysounds/player.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/sleepysounds/player-2.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/sleepysounds/player-3.png" width="266"><p>
 
-**More features are available in the application. [Try it now!!!](https://ez-health.web.app)**
+**More features are available in the application. 👉 [TRY IT NOW!](https://ez-health.web.app)**
 
 ---
