@@ -12,11 +12,11 @@
 
 ---
 
-# Features
+# Features 📱
 
 ---
 
-> ## Splash Screen - Loading
+> ## Splash Screen - Loading 🔮
 
 - Splash Screen is a special screen that is displayed first when opening an application.
 - The Ez Health app's Splash Screen will display the app's logo.
@@ -28,7 +28,7 @@
 
 ---
 
-> ## Welcome - Log In - Register
+> ## Welcome - Log In - Register 📲
 
 - Users can choose to login to open the login page when they already have an account to log in by Email or can quickly log in via Facebook or Google.
 - Users can request to reset password via Email.
@@ -77,19 +77,19 @@
 - Users can connect with friends, win in-app rewards and view rankings.
 - Users can find friends and follow them.
 
-> ## Socials
+> ## Socials 👥
 
 <p align="center"><img src="/src/assets/images/screenshots/social/search.png" width="400">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/src/assets/images/screenshots/social/leader.png" width="400"><p>
 
 ---
 
-> ## App Mode
+> ## App Mode 🤹
 
 <p align="center"><img src="/src/assets/images/screenshots/appmode/food.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/appmode/rest.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/appmode/fitness.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/appmode/challenges.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/appmode/meditation.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/appmode/sleepy.png" width="266"<p>
 
 ---
 
-> ## Switch themes
+> ## Switch themes 🤹
 
 <p align="center"><img src="/src/assets/images/screenshots/appmode/appmode.gif" width="400">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/src/assets/images/screenshots/home/home.gif" width="400"><p>
 
@@ -99,9 +99,9 @@
 
 ---
 
-> ### Main Screen, Healthy Foods 🍏 🍎 🍐 🍊 🍋 🍌 🍉 🍇 🍓 🍈 🥝 🥑 🍍 🍒 🍑 🍆 🥒 🥕 🌶 🌽 🍅 🥔 🍠 🌰 🥜
+> ### Main Screen, Healthy Foods 🍏
 
-- Healthy Foods: Look up information about healthy fruits and vegetables, know all kinds of fruits, vegetables and their nutritional information.
+- Healthy Foods: Look up information about healthy fruits and vegetables, know all kinds of fruits, vegetables and their nutritional information (🍎 🍐 🍊 🍋 🍌 🍉 🍇 🍓 🍈 🥝 🥑 🍍 🍒 🍑 🍆 🥒 🥕 🌶 🌽 🍅 🥔 🍠 🌰 🥜).
 
 <p align="center"><img src="/src/assets/images/screenshots/foodchoices/mainscreen.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/foodchoices/healthy.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/foodchoices/foodinfo.png" width="266"><p>
   
@@ -130,19 +130,19 @@
 
 ---
 
-> ### Mainscreen, Details, Startfit
+> ### Mainscreen, Details, Startfit 🏃
 
 <p align="center"><img src="/src/assets/images/screenshots/fitness/mainscreen.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/fitness/fitness_details.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/fitness/fitness_start.png" width="266"><p>
   
 ---
 
-> ### Animations
+> ### Animations 🤸
 
 <p align="center"><img src="/src/assets/images/screenshots/fitness/mainscreen.gif" width="274">&nbsp;<img src="/src/assets/images/screenshots/fitness/classic.gif" width="274">&nbsp;<img src="/src/assets/images/screenshots/fitness/abs.gif" width="274"><img src="/src/assets/images/screenshots/fitness/butt.gif" width="274">&nbsp;<img src="/src/assets/images/screenshots/fitness/leg.gif" width="274">&nbsp;<img src="/src/assets/images/screenshots/fitness/arm.gif" width="274"><p>
 
 ---
 
-> ## Challenges
+> ## Challenges 📝
 
 - Becoming a healthier person doesn't mean making a big difference that affects the rest of our lives.
 - It is about making many small decisions throughout our lives. From choosing healthy alternatives over sugary foods to taking a walk instead of watching TV.
@@ -157,7 +157,7 @@
   
 ---
 
-> ### Add new challenges
+> ### Add new challenges ✍️
 
 <p align="center"><img src="/src/assets/images/screenshots/challenges/icon.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/challenges/name.png" width="266">&nbsp;<img src="/src/assets/images/screenshots/challenges/color.png" width="266"><p>
  
