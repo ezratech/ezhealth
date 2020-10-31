@@ -46,11 +46,11 @@
 
 ---
 
-> ## Themes 💚 ❤️ 💙 💛 💜 🖤
+> ## Themes
 
 ---
 
-> ### Color Header
+> ### Color Header 💚 ❤️ 💙 💛 💜 🖤
 
 - The application has six themes corresponding to six main colors: Green, Red, Blue, Orange, Purple, Black.
 
