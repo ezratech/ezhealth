@@ -8,7 +8,7 @@
 
 ---
 
-> ## Application available on [Ez Health Website](https://ez-health.web.app)
+> ## Application available on [Play Store](https://play.google.com/store/apps/details?id=com.ezratech.ezhealth)
 
 ---
 
