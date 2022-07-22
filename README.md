@@ -91,7 +91,7 @@
 
 > ## Switch themes 🤹
 
-<p align="center"><img src="/src/assets/images/screenshots/appmode/appmode.gif" width="400">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/src/assets/images/screenshots/home/home.gif" width="400"><p>
+<p align="center"><img src="/src/assets/images/screenshots/appmode/appmode.gif" width="380">&nbsp;&nbsp;&nbsp;&nbsp;<img src="/src/assets/images/screenshots/home/home.gif" width="380"><p>
 
 ---
 
